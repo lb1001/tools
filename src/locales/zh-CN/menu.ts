@@ -49,4 +49,8 @@ export default {
   'menu.editor.flow': '流程编辑器',
   'menu.editor.mind': '脑图编辑器',
   'menu.editor.koni': '拓扑编辑器',
+  'menu.dms': '数据库管理器',
+  'menu.dms.nukv': 'NuKV',
+  'menu.dms.nuobject': 'NuObject',
+  'menu.dms.nudata': 'NuData',
 };
